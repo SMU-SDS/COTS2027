@@ -39,6 +39,7 @@
     <h1>{{ page.heading | default: page.title }}</h1>
     <p class="hero-meta">{{ site.dates }} &middot; {{ site.institution }} &middot; {{ site.venue }}</p>
     {% if page.cta_url %}<p><a class="button" href="{{ page.cta_url | relative_url }}">{{ page.cta_text }}</a></p>{% endif %}
+    {% if page.cta_note %}<p class="cta-note">{{ page.cta_note }}</p>{% endif %}
   </div>
 </section>
 {% else %}

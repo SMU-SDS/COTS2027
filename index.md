@@ -4,7 +4,8 @@ title: "Home"
 heading: "Conference of Texas Statisticians"
 hero: true
 cta_url: "/registration/"
-cta_text: "Registration opens soon"
+cta_text: "Registration"
+cta_note: "Early registration ends February 19, 2027"
 permalink: /
 ---
 
@@ -30,18 +31,18 @@ in the department for decades and trained many of its doctoral students.
 We look forward to welcoming you to campus on April 2 and 3, 2027.
 
 <div class="notice">
-  <p>The program, registration link, and poster submission link are being
-  finalized. Check back for updates.</p>
+  <p>The program and poster submission link are being finalized. Check back for
+  updates.</p>
 </div>
 
 ## Key dates
 
 | Milestone | Date |
 |---|---|
-| Registration opens | December 2026 |
-| Early registration deadline | February 2027 |
+| Registration opens | December 1, 2026 |
+| Early registration closes | February 19, 2027 |
 | Poster abstract deadline | March 2027 |
-| Registration closes | March 2027 |
+| Registration and dinner close | April 1, 2027 |
 | Conference | Friday and Saturday, April 2–3, 2027 |
 
 ## Contact
