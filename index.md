@@ -37,6 +37,9 @@ We look forward to welcoming you to campus on April 2 and 3, 2027.
 
 ## Key dates
 
+<div class="dates-flyer" markdown="1">
+<div class="dates" markdown="1">
+
 | Milestone | Date |
 |---|---|
 | Registration opens | December 1, 2026 |
@@ -44,6 +47,13 @@ We look forward to welcoming you to campus on April 2 and 3, 2027.
 | Poster abstract deadline | March 2027 |
 | Registration and dinner close | April 1, 2027 |
 | Conference | Friday and Saturday, April 2–3, 2027 |
+
+</div>
+<figure class="flyer-fig">
+  <a href="{{ '/assets/flyer/cots2027-save-the-date.pdf' | relative_url }}"><img src="{{ '/assets/flyer/cots2027-save-the-date.jpg' | relative_url }}" alt="COTS 2027 save-the-date flyer"></a>
+  <figcaption><a class="button" href="{{ '/assets/flyer/cots2027-save-the-date.pdf' | relative_url }}">Download the PDF</a></figcaption>
+</figure>
+</div>
 
 ## Contact
 

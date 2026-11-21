@@ -106,3 +106,12 @@ td:first-child{white-space:nowrap;color:var(--muted)}
 .button.outline{background:#fff;color:var(--smu-red);border:2px solid var(--smu-red);padding:calc(.6rem - 2px) calc(1.4rem - 2px)}
 .button.outline:hover{background:var(--smu-red);color:#fff}
 .hero .cta-note{font-size:1.02rem;color:#e3e8f6;margin:.75rem 0 0;text-shadow:0 1px 8px rgba(12,20,50,.5)}
+/* save-the-date flyer beside the key dates on the home page */
+.dates-flyer{display:flex;gap:1.6rem;align-items:flex-start}
+.dates-flyer .dates{flex:1;min-width:0}
+.dates-flyer table{margin-top:0}
+.flyer-fig{flex:0 0 200px;margin:0}
+.flyer-fig img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:4px;box-shadow:0 4px 14px rgba(20,30,70,.12)}
+.flyer-fig figcaption{margin-top:.75rem}
+.flyer-fig figcaption .button{display:block;text-align:center;margin-top:0;padding-left:.6rem;padding-right:.6rem}
+@media (max-width:700px){.dates-flyer{flex-direction:column;gap:1rem}.flyer-fig{flex:none;width:200px}}
